@@ -106,4 +106,4 @@ if st.session_state.step ==3:
     st.write(f"**Identification is:** {st.session_state.identity}")
     st.write(f"**Current Status:** {st.session_state.status}")
 
-    st.balloons()  # Celebrate completion
+    #st.balloons()  # Celebrate completion
